@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h3.about-text {
+    font-family: "Poppins", sans-serif;
+    left: 0;
+    line-height: 200px;
+    margin-top: -200px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-size: 22px;
+    color: rgb(0, 153, 0)
+}
+
+.noidea {
+    font-family: "Poppins", sans-serif;
+    left: 0;
+    line-height: 200px;
+    margin-top: -200px;
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    width: 100%;
+    font-size: 34px;
+}
+
+.lol {
+    font-family: "Poppins", sans-serif;
+    left: 0;
+    line-height: 200px;
+    margin-top: -200px;
+    position: absolute;
+    text-align: center;
+    top: 90%;
+    width: 100%;
+    font-size: 34px;
+}
